@@ -24,8 +24,6 @@ This is a C++ project developed as part of a **Programming Fundamentals / OOP** 
 - Language: **C++**
 - Compiler: Compatible with Code::Blocks, Dev C++, or any standard C++ compiler
 
-## 📷 Screenshots (Optional)
-
 You can upload screenshots of your console output here.
 
 ## 🚀 How to Run
